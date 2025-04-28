@@ -94,7 +94,10 @@ cortexlink-a8f-m/
 
 3. **Input/Output Connections**
    - Connect inputs and outputs according to your application requirements
-   - Refer to the ![pinout documentation](images/PIN_Confuguration_Page1.jpg) for detailed connection information
+   - ESP32 Module Pinout Interface for detailed connection information ![pinout documentation](images/PIN_Confuguration_Page1.jpg)
+   - U8 MCP23017 Pin Configurations and Functions in INPUT Interface ![pinout documentation](images/PIN_Confuguration_Page2.jpg)
+   - U26 MCP23017 Pin Configurations and Functions in OUTPUT Interface ![pinout documentation](images/PIN_Confuguration_Page.jpg)
+   - U46 GP8413 Pin Configurations and Functions in Analog Output Interface ![pinout documentation](images/PIN_Confuguration_Page4.jpg) 
   
  
 
