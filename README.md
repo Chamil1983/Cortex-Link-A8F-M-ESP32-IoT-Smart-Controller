@@ -1,14 +1,16 @@
 # Cortex Link A8F-M ESP32 IoT Controller
 
-<p align="center">
-<img src="images/3D_A8F-M PCB Layout Top.png" alt="Cortex Link A8F-M ESP32 Smart Relay Board" width="600"/>
-</p>
+
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Arduino Compatible](https://img.shields.io/badge/Arduino-Compatible-green.svg)](https://www.arduino.cc/)
 [![ESPHome Compatible](https://img.shields.io/badge/ESPHome-Compatible-green.svg)](https://esphome.io/)
 [![Home Assistant Compatible](https://img.shields.io/badge/Home_Assistant-Compatible-green.svg)](https://www.home-assistant.io/)
+
+<p align="center">
+<img src="images/3D_A8F-M PCB Layout Top.png" alt="Cortex Link A8F-M ESP32 Smart Relay Board" width="600"/>
+</p>
 
 ## Overview
 
@@ -28,7 +30,7 @@ Designed and manufactured by Microcode Embedded Systems and Automation (MESA), t
   - Wi-Fi 802.11 b/g/n (2.4 GHz)
   - Bluetooth BLE 4.0 and Bluetooth Classic
   - Ethernet via RJ45 port (10/100 Mbps)
-  - RS485/Modbus RTU interface
+  - RS-485/Modbus RTU interface
   - Optional GSM (2G/4G module support)
 - **Additional Features**:
   - DS3231 real-time clock with battery backup
@@ -82,8 +84,8 @@ cortexlink-a8f-m/
 ### Hardware Setup
 
 1. **Power Connection**
-   - Connect 9-12V DC power supply to the power input terminals (observe polarity)
-   - Verify the power LED illuminates
+   - Connect 9- 12V DC power supply to the power input terminals (observe polarity)
+   - Verify that the power LED illuminates
 
 2. **Initial Connection**
    - Connect the board to your computer using a USB-B cable
@@ -92,7 +94,7 @@ cortexlink-a8f-m/
 
 3. **Input/Output Connections**
    - Connect inputs and outputs according to your application requirements
-   - Refer to the [pinout documentation](docs/pinout.md) for detailed connection information
+   - Refer to the [pinout documentation](images/PIN Confuguration_Page1.jpg) for detailed connection information
 
 ### Basic Arduino Setup
 
