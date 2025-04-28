@@ -1,6 +1,7 @@
 # Cortex Link A8F-M ESP32 IoT Controller
 
-![Cortex Link A8F-M ESP32 Board](assets/images/cortexlink-board.jpg)
+
+![Cortex Link A8F-M ESP32 Board](Pictures/3D_A8F-M-I_IPEX PCB Layout TOP.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Arduino Compatible](https://img.shields.io/badge/Arduino-Compatible-green.svg)](https://www.arduino.cc/)
