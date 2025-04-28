@@ -100,6 +100,10 @@ cortexlink-a8f-m/
   - [ModbusMaster](https://github.com/4-20ma/ModbusMaster)
   - [TinyGSM](https://github.com/vshymanskyy/TinyGSM) (for GSM functionality)
   - [ESPHome](https://esphome.io/) (optional, for Home Assistant integration)
+  - [DFRobot_GP8XXX](https://github.com/DFRobot/DFRobot_GP8XXX.git)
+  - [Modbus Library for Arduino](https://github.com/emelianov/modbus-esp8266.git)
+  - [Ethernet Library for Arduino](https://github.com/arduino-libraries/Ethernet.git)
+ 
 
 ### Hardware Setup
 
