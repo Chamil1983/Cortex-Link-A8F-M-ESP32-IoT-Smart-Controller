@@ -14,7 +14,7 @@
 
 ## Overview
 
-The Cortex Link A8F-M ESP32 is a high-performance, industrial-grade IoT controller designed for smart home automation, industrial monitoring, and IoT applications. Built around the powerful ESP32 dual-core processor, this controller offers extensive I/O capabilities, multiple communication interfaces, and seamless integration with popular development platforms.
+The Cortex Link A8F-M ESP32 is a high-performance, industrial-grade IoT controller for smart home automation, industrial monitoring, and IoT applications. Built around the powerful ESP32 dual-core processor, this controller offers extensive I/O capabilities, multiple communication interfaces, and seamless integration with popular development platforms.
 
 Designed and manufactured by Microcode Embedded Systems and Automation (MESA), this controller provides a robust hardware platform for developing complex automation solutions with minimal additional components required.
 
@@ -94,7 +94,9 @@ cortexlink-a8f-m/
 
 3. **Input/Output Connections**
    - Connect inputs and outputs according to your application requirements
-   - Refer to the [pinout documentation](images/PIN Confuguration_Page1.jpg) for detailed connection information
+   - Refer to the ![pinout documentation](images/PIN Confuguration_Page1.jpg) for detailed connection information
+  
+ 
 
 ### Basic Arduino Setup
 
