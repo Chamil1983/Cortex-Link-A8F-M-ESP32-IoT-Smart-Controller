@@ -542,7 +542,7 @@ void loop() {
 
 ## Documentation
 
-Complete documentation is available in the [docs](/docs) directory:
+Complete documentation is available in the [Docs](/Docs) directory:
 
 - [User Manual](Docs/user-manual.pdf) - Comprehensive guide to hardware and software
 - [Pinout Reference](images/pinout.md) - Detailed pin mapping and descriptions
@@ -563,7 +563,7 @@ Please ensure your code follows the existing style and includes appropriate docu
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](License) file for details.
 
 ## Acknowledgements
 
@@ -576,11 +576,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For technical support, please contact MESA:
 
-- **Website:** [www.mesa-automation.com](https://www.mesa-automation.com)
-- **Email:** support@mesa-automation.com
+- **Website:** [www.microcodeeng.com](https://www.microcodeeng.com)
+- **Email:** microcode-eng@outlook.com
 
 For issues related to this repository, please open an issue on GitHub.
 
 ---
 
+<p align="center">
+  <img src="LOGO/MESA_logo.png" alt="MESA Logo" width="200"/><br>
+
+  <I align="center">Designed and manufactured by Microcode Embedded Systems and Automation (MESA)</i>
+</p>
 *Designed and manufactured by Microcode Embedded Systems and Automation (MESA)*
