@@ -1,6 +1,8 @@
 # Cortex Link A8F-M ESP32 IoT Controller
 
-
+<p align="center">
+<img src="3D_A8R-M PCB Layout_1.png" alt="Cortex Link A8R-M ESP32 Smart Relay Board" width="600"/>
+</p>
 ![Cortex Link A8F-M ESP32 Board](Pictures/3D_A8F-M-I_IPEX PCB Layout TOP.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
