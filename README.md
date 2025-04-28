@@ -544,8 +544,8 @@ void loop() {
 
 Complete documentation is available in the [docs](/docs) directory:
 
-- [User Manual](docs/user-manual.md) - Comprehensive guide to hardware and software
-- [Pinout Reference](docs/pinout.md) - Detailed pin mapping and descriptions
+- [User Manual](Docs/user-manual.pdf) - Comprehensive guide to hardware and software
+- [Pinout Reference](images/pinout.md) - Detailed pin mapping and descriptions
 - [Library Reference](docs/library-reference.md) - API documentation for the CortexLink library
 - [Application Notes](docs/application-notes/) - Specific use cases and solutions
 
