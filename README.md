@@ -94,7 +94,7 @@ cortexlink-a8f-m/
 
 3. **Input/Output Connections**
    - Connect inputs and outputs according to your application requirements
-   - Refer to the ![pinout documentation](images/PIN Confuguration_Page1.jpg) for detailed connection information
+   - Refer to the ![pinout documentation](images/PIN_Confuguration_Page1.jpg) for detailed connection information
   
  
 
