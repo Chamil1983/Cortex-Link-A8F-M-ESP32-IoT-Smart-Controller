@@ -39,6 +39,24 @@ Designed and manufactured by Microcode Embedded Systems and Automation (MESA), t
   - I2C expansion interface
   - 1-Wire support for temperature sensors
 
+ ## Hardware Specifications
+
+| Category | Specification |
+|----------|--------------|
+| Microcontroller | ESP32 dual-core, 32-bit, 240 MHz |
+| Memory | 8 MB Flash, 520 KB SRAM |
+| Power Input | 9V-12V DC |
+| Power Consumption | 1W (idle), 10W (under load) |
+| Dimensions | 200mm × 110mm × 45mm |
+| Operating Temp | -40°C to +85°C |
+| Certifications | CE, RoHS |
+
+## Board Layout
+
+<p align="center">
+<img src="images/Design_Drawing.jpg" alt="Board Layout" width="600"/>
+</p>
+
 ## Repository Contents
 
 ```
@@ -588,4 +606,4 @@ For issues related to this repository, please open an issue on GitHub.
 
   <I align="center">Designed and manufactured by Microcode Embedded Systems and Automation (MESA)</i>
 </p>
-*Designed and manufactured by Microcode Embedded Systems and Automation (MESA)*
+
